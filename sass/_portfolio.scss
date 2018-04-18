@@ -1,0 +1,58 @@
+#portfolio{
+    width: 100%;
+    height:1500 px;
+}
+.xett{
+    width: 50px;
+    height: 1px;
+    margin: 0 auto;
+
+background: black;
+}
+.menu{
+    width: 560px;
+    height: 150px;
+    position: absolute;
+    left: calc(50% - 280px);
+}
+.menu ul li{
+    list-style: none;
+    font-weight: 100px;
+    border: 1px solid;
+    padding: 5px 20px;
+    font-size: 13px;
+    margin:0px 2px;
+    float: left;
+    background: black;
+
+}
+.menu ul li a{
+    text-decoration: none;
+    color:white;
+    border: 2 px solid transparent;
+    padding: 10px;
+    transition: all 1s ease;
+}
+.menu ul li:hover{
+color:white;
+background: red;
+}
+
+.sekil1{
+    width: 100%;
+    height: 100%;
+}
+
+.sekil1  img{
+    width: 100%;
+    height: 100%;
+
+}
+.sekil2{
+    width: 100%;
+    height: 100%;
+}
+.sekil2 img{
+    width: 100%;
+    height: 100%;
+}
